@@ -16,14 +16,11 @@ public class Food {
   public static final HashMap<String, Integer> sFoodImageMap;
   static {
     sFoodImageMap = new HashMap<>();
-    sFoodImageMap.put("Cow1", R.drawable.cow1);
-    sFoodImageMap.put("Cow2", R.drawable.cow2);
-    sFoodImageMap.put("Cow1", R.drawable.cow1);
-    sFoodImageMap.put("Cow2", R.drawable.cow2);
-    sFoodImageMap.put("Cow1", R.drawable.cow1);
-    sFoodImageMap.put("Cow2", R.drawable.cow2);
-    sFoodImageMap.put("Cow3", R.drawable.cow3);
-    sFoodImageMap.put("Cow1", R.drawable.cow1);
+    sFoodImageMap.put("Jessica 1826", R.drawable.cow1);
+    sFoodImageMap.put("Lotto  1377", R.drawable.cow1);
+    sFoodImageMap.put("Nancy 853", R.drawable.cow3);
+    sFoodImageMap.put("Danny  1021", R.drawable.cow3);
+
   }
 
   public Food() {
