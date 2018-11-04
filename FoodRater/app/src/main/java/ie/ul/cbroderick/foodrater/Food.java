@@ -16,7 +16,7 @@ public class Food {
   public static final HashMap<String, Integer> sFoodImageMap;
   static {
     sFoodImageMap = new HashMap<>();
-    sFoodImageMap.put("Jessica 1826", R.drawable.Jessica);
+    sFoodImageMap.put("Jessica 1826", R.drawable.cow4);
     sFoodImageMap.put("Lotto  1377", R.drawable.cow1);
     sFoodImageMap.put("Nancy 853", R.drawable.cow3);
     sFoodImageMap.put("Danny  1021", R.drawable.cow3);
